@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Cenas Henrique e Joao\\Programação\\DiscordBot\\LeBot\\LeBot\\LeBot\\LeBot.csproj": {}
+  },
+  "projects": {
+    "Z:\\Cenas Henrique e Joao\\Programação\\DiscordBot\\LeBot\\LeBot\\LeBot\\LeBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Cenas Henrique e Joao\\Programação\\DiscordBot\\LeBot\\LeBot\\LeBot\\LeBot.csproj",
+        "projectName": "LeBot",
+        "projectPath": "Z:\\Cenas Henrique e Joao\\Programação\\DiscordBot\\LeBot\\LeBot\\LeBot\\LeBot.csproj",
+        "packagesPath": "C:\\Users\\João Gonçalves\\.nuget\\packages\\",
+        "outputPath": "Z:\\Cenas Henrique e Joao\\Programação\\DiscordBot\\LeBot\\LeBot\\LeBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\João Gonçalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "MySQL.Data": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "WebSocket4Net": {
+              "target": "Package",
+              "version": "[0.15.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.deps.json
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.runtimeconfig.json
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.runtimeconfig.dev.json
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.dll
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.csprojAssemblyReference.cache
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.csproj.CoreCompileInputs.cache
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.AssemblyInfoInputs.cache
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.AssemblyInfo.cs
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.pdb
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.dll
+Z:\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.pdb
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.deps.json
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.runtimeconfig.json
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.runtimeconfig.dev.json
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.dll
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\bin\Debug\netcoreapp2.0\LeBot.pdb
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.csprojAssemblyReference.cache
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.csproj.CoreCompileInputs.cache
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.AssemblyInfoInputs.cache
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.AssemblyInfo.cs
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.dll
+Z:\Cenas Henrique e Joao\Programação\DiscordBot\LeBot\LeBot\LeBot\obj\Debug\netcoreapp2.0\LeBot.pdb
